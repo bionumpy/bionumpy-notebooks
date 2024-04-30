@@ -8,3 +8,4 @@ This repository contains jupyter notebooks for basic BioNumPy examples:
 * [Sequence matching](https://colab.research.google.com/github/bionumpy/bionumpy-notebooks/blob/master/sequence_matching.ipynb)
 * [Kmers](https://colab.research.google.com/github/bionumpy/bionumpy-notebooks/blob/master/kmers.ipynb)
 * [Genomic data](https://colab.research.google.com/github/bionumpy/bionumpy-notebooks/blob/master/genomic_data_examples.ipynb)
+* [Example usecase of ML on biological sequence data enabled by BioNumpy](https://colab.research.google.com/drive/1qQTUY_Iq3rybi9u-NrL79wQmQZFyqJzK?usp=sharing)
